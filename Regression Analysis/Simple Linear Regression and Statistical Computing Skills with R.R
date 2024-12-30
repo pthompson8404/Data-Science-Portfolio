@@ -1,5 +1,5 @@
 getwd()
-#import your .csv file to your global environment
+
 data <- read.csv("hour.csv")
 str(data)
 
